@@ -1,0 +1,1 @@
+to run the code , enter the code in the terminal 
