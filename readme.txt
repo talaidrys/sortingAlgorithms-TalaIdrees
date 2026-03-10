@@ -1,1 +1,1 @@
-to run the code , enter the code in the terminal 
+to run the code , enter the  python sorting.py in the terminal 
